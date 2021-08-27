@@ -1,0 +1,14 @@
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\bin\Debug\Covid19VaccineRegistration.exe.config
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\bin\Debug\Covid19VaccineRegistration.exe
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\bin\Debug\Covid19VaccineRegistration.pdb
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.csprojAssemblyReference.cache
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.Form1.resources
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.Properties.Resources.resources
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.csproj.GenerateResource.cache
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.csproj.CoreCompileInputs.cache
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.exe
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.pdb
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\bin\Debug\Covid19VaccineRegistration.exe.manifest
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\bin\Debug\Covid19VaccineRegistration.application
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.exe.manifest
+C:\Users\hsche\source\repos\Covid19VaccineRegistration\Covid19VaccineRegistration\obj\Debug\Covid19VaccineRegistration.application
